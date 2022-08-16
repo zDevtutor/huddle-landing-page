@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/zDevtutor/huddle-landing-page
+- Live Site URL: https://huddle-landing-page-six-zeta.vercel.app/
 
 ## My process
 
@@ -47,5 +47,5 @@ This project was a practice on styled components
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [zDevtutor](https://github.com/zDevtutor)
+- Frontend Mentor - [@zDevtutor](https://www.frontendmentor.io/profile/zDevtutor)
