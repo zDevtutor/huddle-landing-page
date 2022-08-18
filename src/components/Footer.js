@@ -70,13 +70,25 @@ function Footer() {
 
 					<div className='social'>
 						<div className='social__icons'>
-							<a href='http://facebook.com' target={'_blank'} rel='noreferrer'>
+							<a
+								aria-label='facebook'
+								href='http://facebook.com'
+								target={'_blank'}
+								rel='noreferrer'>
 								<FontAwesomeIcon icon={faFacebookF} className='icon' />
 							</a>
-							<a href='http://twitter.com' target={'_blank'} rel='noreferrer'>
+							<a
+								aria-label='twitter'
+								href='http://twitter.com'
+								target={'_blank'}
+								rel='noreferrer'>
 								<FontAwesomeIcon icon={faTwitter} className='icon' />
 							</a>
-							<a href='http://instagram.com' target={'_blank'} rel='noreferrer'>
+							<a
+								aria-label='instagram'
+								href='http://instagram.com'
+								target={'_blank'}
+								rel='noreferrer'>
 								<FontAwesomeIcon icon={faInstagram} className='icon' />
 							</a>
 						</div>
